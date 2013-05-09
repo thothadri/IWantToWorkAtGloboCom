@@ -1,19 +1,101 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Área de Webmedia
+Plataforma de Personalização 
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Nome: Thothadri Rajesh
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
+Endereço: Rua Pedro Americo, 48, Catete, RJ, CEP: 22211-200
+
+Email: thothadri@land.ufrj.br
+
+Cellular: (21) 82008673,80332168
+
+
+
+OBJETIVO 
+
+    • Construir carreira na área da Ciência da Computação que utilizando meu talento, 
+      competências e habilidades em um ambiente profissional cheio de desafios.
+
+ÁREAS DE INTERESSE 
+
+    • Desenvolvimento de software
+    • Modelagem matemática
+    • Web Design
+  
+FORMAÇÃO
+
+    • Mestrado:  Universidade Federal do Rio de Janeiro – PESC/COPPE
+           Linha:  Programa de Engenharia de Sistemas e Computação
+           Orientador:  Professor Edmundo Albuquerque de Souza e Silva   
+           Bolsista de mestrado do CAPPES
+           Previsão de conclusão: Junho/2013
+           CRA: 2.4/3 
+    • Graduação: Amrita School of Enginering, India 
+           Linha: Bacharelado  em Engenharia  Eletrônica e Comunicação
+           Conclusão: Maio/2009
+           CRA: 8.1/10
+           
+EXPERIÊNCIA PROFISSIONAL
+
+    • Fundação CECIERJ/CONSÓRCIO CEDERJ                                            Jan'11 – Present (2 years)
+      Suporte Técnico no sistema de tutoria do CEDERJ. Disenvolvimento de materiais de cursos em Flash. 
+      Atualmente estamos desenvolvendo a versão HTML5 para sistema de ensino a distância RIO 
+      (video aulas disponíveis em http://www.cederj.edu.br/videoaulas/) 
+
+    • Indian Institute of Science, Bangalore  ( Project Assistant )                Jul '09 – Jan'10 ( 6 months )
+      Testes de segurança em VoIP. Descobrir vulnerabilidades associadas com dispositivos 
+      baseados em SIP (Session Inititation Protocol). 
+      Elaboração fórmula  geral para o teste de dispositivos baseados em SIP. 
+      Orientador: Professor N Balakrishnan, Associate Director of IISC Bangalore
+
+    • Amrita Research Labs, Amritapuri ( Intern )                                 Jan' 09 – May' 09 (6 months)
+      Como parte do projeto de graduação do último ano implementamos uma VoIP no sistema 
+      integrado baseado em ARM  minimizando o número de buffers e operações de buffer.
+      
+    • IEEE Student Chapter, Amrita School of Engeering                            Jan'  2007- Jan' 2008 (1 Year)
+      Coordenador do IEEE da Amrita School of Engineering de 2007 ate 2008
+      
+PESQUISA DESENVOLVIDA NA DISSERTAÇÃO DE MESTRADO                                  ( Jan '12 – present)
+
+     • O objetivo do projeto é desenvolver ferramentas auxiliares na análise dos níveis 
+       de   atenção e de outros estados cognitivos em alunos expostos a videoaulas do
+       CEDERJ.  Esse  estudo  busca  a  otimização  da  aprendizagem  através  do 
+       entendimento de como ocorre a interação entre o aluno e a videoaula. 
+       
+PUBLICAÇÕES
+
+     • Dinil.D,   Aravind.P.A,   Thothadri   Rajesh,   Aravind.P,   Anand.R,   Jayaraj,  
+       “uVOIP:   CrossLayer  Optimization of Buffer Operations for Providing Secure VOIP Services on
+       Constrained Embedded Devices ”,  em International Journal of Next-Generation Networks, 2009
+ 
+CONHECIMENTO TÉCNICO
+
+      •    Linguagem  de programação :
+           • C, C++, Python, AWK, JavaScript, Actionscript
+      •    Aplicações de computação científica
+           • Matlab, Octave, R
+      • Sistemas operacional
+           • Linux, Windows
+           
+REALIZAÇÕES ACADÊMICAS
+
+      •   Bolsista de pos-graduaçao da CAPPES
+      •   Aceito pela Comissão Europeia através da Willpower Network para realização de mestrado em UPC, Barcelona, Spain.
+
+DADOS PESSOAIS
+
+     • Data de Nascimento : 30/03/1987
+     • Estado Civil : Solteiro 
+     • Nacionalidade : Indiano
+     • Idiomas : Inglês, Português, Hindi, Tamil, Malayalam ( Fluentes )
+
+
 	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
 	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
